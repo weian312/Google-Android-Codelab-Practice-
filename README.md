@@ -1,2 +1,3 @@
 "# Practicing Git"  
-"# Prcticing Android Studio"<br />123
+"# Practicing Android Studio"<br />
+#Practicing Markdown
