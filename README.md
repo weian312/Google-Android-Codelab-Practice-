@@ -1,2 +1,2 @@
-"# Practicing Git" \n
+"# Practicing Git"  
 "# Prcticing Android Studio"
